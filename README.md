@@ -2,6 +2,9 @@
 # ***Smartio***
 This bot isn't slacking off — it replies to commands 24/7!
 
+# channel where you can test it out!!
+https://hackclub.enterprise.slack.com/archives/C0BSYLSSPQQ
+
 ## Commands
 
 | Command                 | Description                                                   |
